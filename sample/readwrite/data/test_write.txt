@@ -1,0 +1,24 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "sample image"
+Image size (X x Y x C) : 640 x 480 x 3
+Database : "sample database"
+Objects with ground truth : 2 { "PASperson" "PAScar" }
+
+# This file was created by libAnnotationPascal.
+# https://github.com/hattorih/libAnnotationPascal
+
+# This is a sample annotation file.
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PASperson")
+Original label for object 1 "PASperson" : "person"
+Bounding box for object 1 "PASperson" (Xmin, Ymin) - (Xmax, Ymax) : (10, 11) - (12, 13)
+
+# Details for object 2 ("PAScar")
+Original label for object 2 "PAScar" : "car"
+Bounding box for object 2 "PAScar" (Xmin, Ymin) - (Xmax, Ymax) : (20, 21) - (22, 23)
