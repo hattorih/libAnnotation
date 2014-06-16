@@ -1,9 +1,10 @@
 
-                          License Agreement
+License Agreement
+=================
 
 Copyright (c) 2013-2014,
 
-Hironori Hattori <hattorih@cs.cmu.edu>
+Hironori Hattori <hattorih@cs.cmu.edu>  
 Carnegie Mellon University
 
 All rights reserved.
