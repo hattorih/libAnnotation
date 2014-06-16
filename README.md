@@ -8,7 +8,7 @@ https://github.com/hattorih/libAnnotationPascal
 
 LICENSE
 -------
-Please reffer to the LICENSE.txt.
+Please reffer to the LICENSE.md.
 
 AUTHOR
 ------
