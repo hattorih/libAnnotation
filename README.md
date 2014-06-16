@@ -3,7 +3,7 @@ libAnnotationPascal
 ===================
 C++ Source Code for PASCAL Annotation Version 1.00
 
-The source repository is hosted on GitHub.
+The source repository is hosted on GitHub.  
 https://github.com/hattorih/libAnnotationPascal
 
 LICENSE
@@ -12,8 +12,8 @@ Please reffer to the LICENSE.md.
 
 AUTHOR
 ------
-Hironori Hattori, Carnegie Mellon University
-hattorih@cs.cmu.edu
+Hironori Hattori <hattorih@cs.cmu.edu>  
+Carnegie Mellon University
 
 If you have any questions,
 please feel free to contact me!
