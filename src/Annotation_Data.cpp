@@ -1,4 +1,4 @@
-#include "AnnotationPascal_Data.h"
+#include "Annotation_Data.h"
 
 #include <assert.h>
 #include <iostream>
@@ -9,7 +9,7 @@
 #pragma warning ( disable : 4996 )
 
 
-namespace AnnotationPascal
+namespace Annotation
 {
 
 
@@ -69,8 +69,8 @@ bool Data::read (const std::string &filename)
 
 				if (line == "") continue;
 
-				if (line == "# This file was created by libAnnotationPascal.") continue;
-				if (line == "# https://github.com/hattorih/libAnnotationPascal") continue;
+				if (line == "# This file was created by libAnnotation.") continue;
+				if (line == "# https://github.com/hattorih/libAnnotation") continue;
 				
 				if (line == "# Note that there might be other objects in the image") continue;
 				if (line == "# for which ground truth data has not been provided.") continue;
@@ -234,8 +234,8 @@ bool Data::write (const std::string &filename)
 		out << "}" << std::endl;
 
 		out << std::endl;
-		out << "# This file was created by libAnnotationPascal." << std::endl;
-		out << "# https://github.com/hattorih/libAnnotationPascal" << std::endl;
+		out << "# This file was created by libAnnotation." << std::endl;
+		out << "# https://github.com/hattorih/libAnnotation" << std::endl;
 		out << std::endl;
 
 		for (unsigned int i=0; i<mComments.size(); i++)
@@ -330,5 +330,5 @@ Element &Data::operator[] (unsigned int index)
 }
 
 
-} // namespace AnnotationPascal
+} // namespace Annotation
 

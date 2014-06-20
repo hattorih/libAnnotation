@@ -5,22 +5,22 @@
  $Id: $
 ********************************************************************************/
 
-// "libAnnotationPascal - Data"
+// "libAnnotation - Data"
 
 // Hironori Hattori, Carnegie Mellon University
 // hattorih@cs.cmu.edu
 
 
-#ifndef __LIB_ANNOTATION_PASCAL_DATA_H__
-#define __LIB_ANNOTATION_PASCAL_DATA_H__
+#ifndef __LIB_ANNOTATION_DATA_H__
+#define __LIB_ANNOTATION_DATA_H__
 
 
-#include "AnnotationPascal_Element.h"
+#include "Annotation_Element.h"
 
 #include <vector>
 
 
-namespace AnnotationPascal
+namespace Annotation
 {
 
 
@@ -90,8 +90,8 @@ private:
 };
 
 
-} // namespace AnnotationPascal
+} // namespace Annotation
 
 
-#endif // __LIB_ANNOTATION_PASCAL_DATA_H__
+#endif // __LIB_ANNOTATION_DATA_H__
 

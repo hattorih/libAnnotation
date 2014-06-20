@@ -1,10 +1,10 @@
 
-libAnnotationPascal
-===================
-C++ Source Code for PASCAL Annotation Version 1.00
+libAnnotation
+=============
+C++ Source Code for PASCAL Annotation Version 1.00, CAVIAR, ViPER
 
 The source repository is hosted on GitHub.  
-https://github.com/hattorih/libAnnotationPascal
+https://github.com/hattorih/libAnnotation
 
 LICENSE
 -------

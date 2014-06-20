@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sample", "sample.vcproj", "{8AE21C4D-CE02-4367-9BB2-AEEE0B1E54F8}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libAnnotationPascal", "..\..\..\..\build\vc9\libAnnotationPascal.vcproj", "{CDBB5B88-B0FE-465B-88E0-B8CFC217537C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libAnnotation", "..\..\..\..\build\vc9\libAnnotation.vcproj", "{CDBB5B88-B0FE-465B-88E0-B8CFC217537C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

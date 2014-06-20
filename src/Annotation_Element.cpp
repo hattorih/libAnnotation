@@ -1,7 +1,7 @@
-#include "AnnotationPascal_Element.h"
+#include "Annotation_Element.h"
 
 
-namespace AnnotationPascal
+namespace Annotation
 {
 
 
@@ -22,5 +22,5 @@ Element::~Element (void)
 }
 
 
-} // namespace AnnotationPascal
+} // namespace Annotation
 

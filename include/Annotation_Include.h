@@ -5,19 +5,19 @@
  $Id: $
 ********************************************************************************/
 
-// "libAnnotationPascal - Include"
+// "libAnnotation - Include"
 
 // Hironori Hattori, Carnegie Mellon University
 // hattorih@cs.cmu.edu
 
 
-#ifndef __LIB_ANNOTATION_PASCAL_INCLUDE_H__
-#define __LIB_ANNOTATION_PASCAL_INCLUDE_H__
+#ifndef __LIB_ANNOTATION_INCLUDE_H__
+#define __LIB_ANNOTATION_INCLUDE_H__
 
 
-#include "AnnotationPascal_Data.h"
-#include "AnnotationPascal_Element.h"
+#include "Annotation_Data.h"
+#include "Annotation_Element.h"
 
 
-#endif // __LIB_ANNOTATION_PASCAL_INCLUDE_H__
+#endif // __LIB_ANNOTATION_INCLUDE_H__
 

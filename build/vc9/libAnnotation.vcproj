@@ -2,9 +2,9 @@
 <VisualStudioProject
 	ProjectType="Visual C++"
 	Version="9.00"
-	Name="libAnnotationPascal"
+	Name="libAnnotation"
 	ProjectGUID="{CDBB5B88-B0FE-465B-88E0-B8CFC217537C}"
-	RootNamespace="libAnnotationPascal"
+	RootNamespace="libAnnotation"
 	TargetFrameworkVersion="196608"
 	>
 	<Platforms>
@@ -272,15 +272,15 @@
 			UniqueIdentifier="{4FC737F1-C7A5-4376-A066-2A32D752A2FF}"
 			>
 			<File
-				RelativePath="..\..\src\AnnotationPascal_Data.cpp"
+				RelativePath="..\..\src\Annotation_Data.cpp"
 				>
 			</File>
 			<File
-				RelativePath="..\..\src\AnnotationPascal_Element.cpp"
+				RelativePath="..\..\src\Annotation_Element.cpp"
 				>
 			</File>
 			<File
-				RelativePath="..\..\src\AnnotationPascal_Include.cpp"
+				RelativePath="..\..\src\Annotation_Include.cpp"
 				>
 			</File>
 		</Filter>
@@ -290,15 +290,15 @@
 			UniqueIdentifier="{93995380-89BD-4b04-88EB-625FBE52EBFB}"
 			>
 			<File
-				RelativePath="..\..\include\AnnotationPascal_Data.h"
+				RelativePath="..\..\include\Annotation_Data.h"
 				>
 			</File>
 			<File
-				RelativePath="..\..\include\AnnotationPascal_Element.h"
+				RelativePath="..\..\include\Annotation_Element.h"
 				>
 			</File>
 			<File
-				RelativePath="..\..\include\AnnotationPascal_Include.h"
+				RelativePath="..\..\include\Annotation_Include.h"
 				>
 			</File>
 		</Filter>

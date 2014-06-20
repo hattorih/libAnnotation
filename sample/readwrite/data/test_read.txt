@@ -5,8 +5,8 @@ Image size (X x Y x C) : 1920 x 1080 x 3
 Database : "sample database"
 Objects with ground truth : 2 { "PASperson" "PAScar" }
 
-# This file was created by libAnnotationPascal.
-# https://github.com/hattorih/libAnnotationPascal
+# This file was created by libAnnotation.
+# https://github.com/hattorih/libAnnotation
 
 # This is a sample annotation file.
 
